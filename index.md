@@ -17,6 +17,8 @@ Syntax highlighted code block
 - Instructors
 - Tools
 - Terminal and Bash
+- SSH
+- Web Development
 
 **Bold** and _Italic_ and `Code` text
 
